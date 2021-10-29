@@ -1,0 +1,2 @@
+D:\Rozhyar\Programming\Fortran Projects\problem 5.3\LGS\L.G.S_METHOD.F95(146) : comment 368 - This assignment will result in a loss of precision, assigning from REAL(KIND=1) to INTEGER(KIND=3)
+Creating executable: D:\Rozhyar\Programming\Fortran Projects\problem 5.3\LGS\L.G.S_METHOD.EXE
